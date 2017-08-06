@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\week04task1\bin\Debug\netcoreapp1.1\week04task1.deps.json
+C:\Users\Owner\Desktop\week04task1\bin\Debug\netcoreapp1.1\week04task1.runtimeconfig.json
+C:\Users\Owner\Desktop\week04task1\bin\Debug\netcoreapp1.1\week04task1.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\week04task1\obj\Debug\netcoreapp1.1\week04task1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\week04task1\bin\Debug\netcoreapp1.1\week04task1.dll
+C:\Users\Owner\Desktop\week04task1\bin\Debug\netcoreapp1.1\week04task1.pdb
+C:\Users\Owner\Desktop\week04task1\obj\Debug\netcoreapp1.1\week04task1.dll
+C:\Users\Owner\Desktop\week04task1\obj\Debug\netcoreapp1.1\week04task1.pdb
